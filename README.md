@@ -32,6 +32,6 @@ jupyter notebook Linear\ Regression\ Models.ipynb
 
 Run the cells to preprocess the data, train the linear regression model, and visualize the results.
 
-###Results
+### Results
 The model provides a clear representation of the trend in the stock market data, along with upper and lower bounds representing one standard deviation from the predicted trend.
 A red dashed line is used to depict the trend, and green dashed lines are used to represent the confidence intervals (±1 standard deviation).
